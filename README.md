@@ -1,5 +1,6 @@
 # Superb Weather Bot
 ![Screenshot](https://i.imgur.com/biAIDNS.jpg)
+[Demo Bot](https://t.me/superb_weather_bot) - Not running all the time because of cost.
 
 ## Installation
 ```
