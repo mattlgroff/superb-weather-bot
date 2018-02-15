@@ -1,6 +1,6 @@
-## Superb Weather Bot
+# Superb Weather Bot
 
-# Installation
+## Installation
 ```
 git clone
 npm install
@@ -17,3 +17,17 @@ and now we can run the bot.
 ```
 npm start
 ```
+## Bot Usage
+Find weather by city name:
+```
+/city San Diego
+/city Anchorage
+/city Tokyo
+```
+
+Help:
+```
+/help
+```
+
+![Screenshot](https://i.imgur.com/biAIDNS.jpg)
