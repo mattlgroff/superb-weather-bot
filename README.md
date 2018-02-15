@@ -1,4 +1,5 @@
 # Superb Weather Bot
+![Screenshot](https://i.imgur.com/biAIDNS.jpg)
 
 ## Installation
 ```
@@ -30,4 +31,3 @@ Help:
 /help
 ```
 
-![Screenshot](https://i.imgur.com/biAIDNS.jpg)
