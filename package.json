@@ -1,0 +1,17 @@
+{
+  "name": "weather-bot",
+  "version": "1.0.0",
+  "description": "Weather bot for telegram.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "request": "^2.83.0",
+    "telegraf": "^3.18.0"
+  }
+}
