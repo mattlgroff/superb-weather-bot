@@ -91,6 +91,10 @@ module.exports = {
           return '⛅'
           break
 
+        case 'heavy intensity rain':
+          return '🌧'
+          break
+
         case 'scattered clouds':
           return '⛅'
           break
